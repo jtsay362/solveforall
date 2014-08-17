@@ -1,4 +1,4 @@
-solveforall
+Solve for All Issue Tracker
 ===========
 
-solveforall Documentation
+
